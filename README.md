@@ -42,6 +42,6 @@ _Este es el repositorio en el cual dejo visible las herramientas que utilice par
 
 Este proyecto está bajo el _MIT LICENSE_ - mira el archivo [LICENSE](LICENSE) para detalles
 
-## Autores ✒️
+## Autor ✒️
 
 [**Vicente Aguilera Arias**](https://github.com/ViceAguilera)
