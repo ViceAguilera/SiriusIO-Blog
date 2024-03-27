@@ -22,11 +22,11 @@ export default function Header() {
             </Button>
         </form>
             <div className='flex gap-2 md:order-2 '>
-                <Button className='w-12 h-10 hidden sm:inline' color='gray' pill>
+                <Button className='w-12 h-10 hidden sm:inline my-1' color='gray' pill>
                     <FaMoon />
                 </Button>
                 <Link to='/sign-in'>
-                    <Button type='button' className='text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-3 py-1 text-center me-2 mb-2'>
+                    <Button className='text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-3 py-1 text-center me-2 mb-2'>
                         Sign In
                     </Button>
                 </Link>
